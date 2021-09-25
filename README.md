@@ -7,3 +7,4 @@ Graph plotting (with sympy or matplotlib) of the Error(w) and Loss(w) over time 
 ToDo:  
 Extend to general n weights and n input dimensions (vector and matrix products using numpy)  
 Add linear basis expansion (LBE)  
+(plot the fitted 2D line and the input data points)  
