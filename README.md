@@ -1,5 +1,5 @@
 # LinearRegression
 Example of Linear regression, using gradient descent algorithm.  
-Just basic example with only two weights, 1-dimension input and 1-dimension output.  
-With Loss function using Tikhonov regularization.  
+Just basic example with 1-dimension input and 1-dimension output, and only two weights / free parameters. η hyperparameter: step size / learning rate.  
+With Loss function using Tikhonov regularization (with hyperparameter λ).  
 Graph plotting (with sympy or matplotlib) of the Error(w) and Loss(w) over time (learning steps/epochs).  
